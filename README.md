@@ -1,7 +1,7 @@
 ## **✌ Oii, Sou o `Pedro Moura`!**
 
 - 🔭 **Atualmente trabalho como Front-End**
-- 📚 **Estudando PHP/JS**
+- 📚 **Estudando JS**
 
 <div>
   <a href="https://github.com/pedromouradev">
