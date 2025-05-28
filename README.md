@@ -1,4 +1,4 @@
-## **✌ Oii, Sou o `Pedro Moura`!**
+## **✌ Oi, Sou o `Pedro Moura`!**
 
 - 🔭 **Atualmente trabalho como Front-End**
 - 📚 **Estudando JS**
